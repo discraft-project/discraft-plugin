@@ -1,0 +1,5 @@
+name: discraft-plugin
+version: '1.0-SNAPSHOT'
+main: io.github.discraftproject.discraftPlugin.DiscraftPlugin
+api-version: '1.21'
+description: 마인크래프트 서버측 플러그인
