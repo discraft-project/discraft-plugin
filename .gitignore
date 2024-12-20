@@ -66,4 +66,3 @@ test_server/*
 !test_server/Dockerfile
 !test_server/eula.txt
 !test_server/server.properties
-!test_server/download_server.ps1
