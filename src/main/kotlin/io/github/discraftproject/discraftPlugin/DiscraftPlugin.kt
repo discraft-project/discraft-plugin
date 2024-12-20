@@ -6,6 +6,7 @@ class DiscraftPlugin : JavaPlugin() {
 
     override fun onEnable() {
         // Plugin startup logic
+        logger.info("Discraft Plugin Enabled")
     }
 
     override fun onDisable() {
